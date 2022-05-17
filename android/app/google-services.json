@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "196747058010",
+    "project_id": "iotproject-a9f1b",
+    "storage_bucket": "iotproject-a9f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196747058010:android:e180682efe3209471d3163",
+        "android_client_info": {
+          "package_name": "com.iotrix.smartwfh.cs7ns2_smartwfh_iotrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196747058010-73ovpo9f1esjh3mu2fkg19mu5lktpel8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iotrix.smartwfh.cs7ns2_smartwfh_iotrix",
+            "certificate_hash": "6f5b951197a2b31303418fcc41197837b0ed3d32"
+          }
+        },
+        {
+          "client_id": "196747058010-m99pdqrfrhpj2oq2l5e33md6v9iqjh96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8rx-SjrOH63Q0htxWBu-v_xWLJrbjiC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196747058010-m99pdqrfrhpj2oq2l5e33md6v9iqjh96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196747058010-nnk1pk3f43l59onj0il4qiiaq0fbkr7f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iotrix.swfh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
